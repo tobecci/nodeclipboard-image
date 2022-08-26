@@ -1,8 +1,11 @@
-# Typescript boilerplate
+# NodeClipboard Image
 
-a typescipt boiler plate for basic nodejs project
+node library for interacting with the clipboard's image contents  
 
-# Starting the project
+## Usage
 
-* install the dependencies
-* run `npm run start:dev`
+### TypeScript  
+
+```typescript
+
+```

@@ -9,18 +9,19 @@
     "start:js": "nodemon ./dist/index.js",
     "start:dev": "tsc && concurrently \"npm run start:ts\" \"npm run start:js\"",
     "start": "tsc && node ./dist/index.js",
-    "start:test": "nodemon dist/index.js"
+    "start:test": "nodemon dist/index.js",
+    "build":"tsc"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tobecci/ts-boilerplate.git"
+    "url": "git+https://github.com/tobecci/nodeclipboard-image.git"
   },
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/tobecci/ts-boilerplate/issues"
+    "url": "https://github.com/tobecci/nodeclipboard-image/issues"
   },
-  "homepage": "https://github.com/tobecci/ts-boilerplate#readme",
+  "homepage": "https://github.com/tobecci/nodeclipboard-image#readme",
   "devDependencies": {
     "concurrently": "^7.1.0",
     "nodemon": "^2.0.15",
