@@ -1,6 +1,8 @@
 # NodeClipboard Image
 
-node library for interacting with the clipboard's image contents  
+node library for interacting with the clipboard's image contents   
+
+Supported Operating Systems: Linux(X11)
 
 ## Installation
 
