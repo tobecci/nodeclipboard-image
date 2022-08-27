@@ -19,6 +19,6 @@ console.log(clip.getClipboardContent());
 ### TypeScript  
 
 ```typescript
-import { getClipboardContent } from 'nodeclipboard-image'
-console.log(getClipboardContent());
+import getClipboardContents from 'nodeclipboard-image'
+console.log(getClipboardContents())
 ```
