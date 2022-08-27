@@ -1,6 +1,6 @@
 {
   "name": "nodeclipboard-image",
-  "version": "1.1.11",
+  "version": "1.1.2",
   "description": "nodejs image clipboard utility for linux",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
